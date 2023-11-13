@@ -1,16 +1,20 @@
 <p align="center">
-<img src="images/cat.jpg" height="200px" width="200px"/>
-<br/>
-<h3 align="center">README Template</h3>
-<p align="center">Source for my awesome personal README template.</p>
-<h2></h2>
+  <img src="images/cat.jpg" height="200px" width="200px"/>
+  <br/>
+  <h3 align="center">README Template</h3>
+  <p align="center">Source for my awesome personal README template.</p>
+  <h2></h2>
 </p>
 <br />
 
 <p align="center">
-<a href="../../issues"><img src="https://img.shields.io/github/issues/aminbeigi/repo-README-template.svg?style=flat-square" /></a>
-<a href="../../pulls"><img src="https://img.shields.io/github/issues-pr/aminbeigi/repo-README-template.svg?style=flat-square" /></a>
-<img src="https://img.shields.io/github/license/aminbeigi/repo-README-template?style=flat-square">
+  <a href="../../issues">
+    <img src="https://img.shields.io/github/issues/aminbeigi/repo-README-template.svg?style=flat-square" />
+  </a>
+  <a href="../../pulls">
+    <img src="https://img.shields.io/github/issues-pr/aminbeigi/repo-README-template.svg?style=flat-square" />
+  </a>
+  <img src="https://img.shields.io/github/license/aminbeigi/repo-README-template?style=flat-square">
 </p>
 
 ## Description
@@ -20,5 +24,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed augue ferme
 Contributions are always welcome!  
 Just make a [pull request](../../pulls).
 
-## Licence
+## License
 MIT license
