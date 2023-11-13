@@ -8,12 +8,8 @@
 <br />
 
 <p align="center">
-  <a href="../../issues">
-    <img src="https://img.shields.io/github/issues/aminbeigi/repo-README-template.svg?style=flat-square" />
-  </a>
-  <a href="../../pulls">
-    <img src="https://img.shields.io/github/issues-pr/aminbeigi/repo-README-template.svg?style=flat-square" />
-  </a>
+  <a href="../../issues"><img src="https://img.shields.io/github/issues/aminbeigi/repo-README-template.svg?style=flat-square" /></a>
+  <a href="../../pulls"><img src="https://img.shields.io/github/issues-pr/aminbeigi/repo-README-template.svg?style=flat-square" /></a>
   <img src="https://img.shields.io/github/license/aminbeigi/repo-README-template?style=flat-square">
 </p>
 
